@@ -13,7 +13,8 @@ const atualCampeaoLibertadores = {
     pais: 'brasil',
     estadio: "maracanã",
     ranking: 3,
-    namePlacar: 'fla'
+    namePlacar: 'fla',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
 }
 const atualCampeaoSulAmericana = {
     pos: 2, 
@@ -21,7 +22,8 @@ const atualCampeaoSulAmericana = {
     pais: 'equador',
     estadio: "estádio rumiñahui",
     ranking: 12,
-    namePlacar: 'idv'
+    namePlacar: 'idv',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
 }
 
 const brasileirao = [
@@ -31,7 +33,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "alianz parque",
         ranking: 2,
-        namePlacar: 'pal'
+        namePlacar: 'pal',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 2,
@@ -39,7 +42,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "beira rio",
         ranking: 18,
-        namePlacar: 'int'
+        namePlacar: 'int',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 3,
@@ -47,7 +51,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "maracanã",
         ranking: 32,
-        namePlacar: 'flu'
+        namePlacar: 'flu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 4,
@@ -55,7 +60,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "arena corinthians",
         ranking: 24,
-        namePlacar: 'cor'
+        namePlacar: 'cor',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 5,
@@ -63,7 +69,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "maracanã",
         ranking: 3,
-        namePlacar: 'fla'
+        namePlacar: 'fla',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 6,
@@ -71,7 +78,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "arena da baixada",
         ranking: 7,
-        namePlacar: 'cap'
+        namePlacar: 'cap',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 7,
@@ -79,7 +87,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "mineirão",
         ranking: 11,
-        namePlacar: 'cam'
+        namePlacar: 'cam',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 8,
@@ -87,7 +96,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "castelão",
         ranking: 78,
-        namePlacar: 'for'
+        namePlacar: 'for',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 9,
@@ -95,7 +105,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "morumbi",
         ranking: 9,
-        namePlacar: 'sao'
+        namePlacar: 'sao',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     },
     {
         pos: 10,
@@ -103,7 +114,8 @@ const brasileirao = [
         pais: 'brasil',
         estadio: "independência",
         ranking: 118,
-        namePlacar: 'ame'
+        namePlacar: 'ame',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     }
 ]
 
@@ -114,7 +126,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "la bombonera",
         ranking: 4,
-        namePlacar: 'boc'
+        namePlacar: 'boc',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 2,
@@ -122,7 +135,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "el cilindro",
         ranking: 22,
-        namePlacar: 'rac'
+        namePlacar: 'rac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 3,
@@ -130,7 +144,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "monumental de núñez",
         ranking: 1,
-        namePlacar: 'riv'
+        namePlacar: 'riv',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 4,
@@ -138,7 +153,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "tomás adolfo ducó",
         ranking: 58,
-        namePlacar: 'hur'
+        namePlacar: 'hur',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 5,
@@ -146,7 +162,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "monumental josé fierro",
         ranking: 64,
-        namePlacar: 'tuc'
+        namePlacar: 'tuc',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 6,
@@ -154,7 +171,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "el nuevo gasómetro",
         ranking: 31,
-        namePlacar: 'slo'
+        namePlacar: 'slo',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 7,
@@ -162,7 +180,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "monumental victoria",
         ranking: 108,
-        namePlacar: 'tig'
+        namePlacar: 'tig',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 8,
@@ -170,7 +189,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "estádio diego armando maradona",
         ranking: 55,
-        namePlacar: 'arg'
+        namePlacar: 'arg',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 9,
@@ -178,7 +198,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "del bosque",
         ranking: 162,
-        namePlacar: 'gim'
+        namePlacar: 'gim',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
     {
         pos: 10,
@@ -186,7 +207,8 @@ const primeiraDivisonArgentina = [
         pais: 'argentina',
         estadio: "presbítero bartolomé grella",
         ranking: 272,
-        namePlacar: 'pat'
+        namePlacar: 'pat',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
     },
 ]
 
@@ -197,7 +219,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "el campín",
         ranking: 57,
-        namePlacar: 'mil'
+        namePlacar: 'mil',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 2,
@@ -205,7 +228,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio manuel murillo toro",
         ranking: 47,
-        namePlacar: 'tol'
+        namePlacar: 'tol',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 3,
@@ -213,7 +237,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "atanasio girardot",
         ranking: 17,
-        namePlacar: 'atl'
+        namePlacar: 'atl',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 4,
@@ -221,7 +246,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "atanasio girardot",
         ranking: 54,
-        namePlacar: 'ime'
+        namePlacar: 'ime',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 5,
@@ -229,7 +255,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio metropolitano",
         ranking: 26,
-        namePlacar: 'jun'
+        namePlacar: 'jun',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 6,
@@ -237,7 +264,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio polideportivo sur",
         ranking: 272,
-        namePlacar: 'evi'
+        namePlacar: 'evi',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 7,
@@ -245,7 +273,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio metropolitano de techo",
         ranking: 87,
-        namePlacar: 'leq'
+        namePlacar: 'leq',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 8,
@@ -253,7 +282,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio alfonso lópez",
         ranking: 215,
-        namePlacar: 'buc'
+        namePlacar: 'buc',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 9,
@@ -261,7 +291,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "estádio daniel villa zapata",
         ranking: 272,
-        namePlacar: 'ali'
+        namePlacar: 'ali',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     },
     {
         pos: 10,
@@ -269,7 +300,8 @@ const categoriaPrimeraA = [
         pais: 'colombia',
         estadio: "el campín",
         ranking: 34,
-        namePlacar: 'sfe'
+        namePlacar: 'sfe',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
     }
 ]
 
@@ -280,7 +312,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "monumental david arellano",
         ranking: 28,
-        namePlacar: 'col'
+        namePlacar: 'col',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },   
     {
         pos: 2,
@@ -288,7 +321,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio municipal nelson oyarzún",
         ranking: 230,
-        namePlacar: 'nub'
+        namePlacar: 'nub',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 3,
@@ -296,7 +330,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "la granja",
         ranking: 272,
-        namePlacar: 'cur'
+        namePlacar: 'cur',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 4,
@@ -304,7 +339,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio municipal de la cisterna",
         ranking: 67,
-        namePlacar: 'pal'
+        namePlacar: 'pal',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 5,
@@ -312,7 +348,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "el cobre",
         ranking: 144,
-        namePlacar: 'cob'
+        namePlacar: 'cob',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 6,
@@ -320,7 +357,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio san carlos de apoquindo",
         ranking: 25,
-        namePlacar: 'uni'
+        namePlacar: 'uni',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 7,
@@ -328,7 +366,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio municipal de la florida",
         ranking: 153,
-        namePlacar: 'aud'
+        namePlacar: 'aud',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 8,
@@ -336,7 +375,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "el teniente",
         ranking: 132,
-        namePlacar: 'hig'
+        namePlacar: 'hig',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 9,
@@ -344,7 +384,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio sausalito",
         ranking: 94,
-        namePlacar: 'eve'
+        namePlacar: 'eve',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     },
     {
         pos: 10,
@@ -352,7 +393,8 @@ const campeonatoNacionalAfp = [
         pais: 'chile',
         estadio: "estádio municipal nicolás",
         ranking: 77,
-        namePlacar: 'uni'
+        namePlacar: 'uni',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
     }
 ]
 
@@ -363,7 +405,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "gran parque central",
         ranking: 6,
-        namePlacar: 'nac'
+        namePlacar: 'nac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 2,
@@ -371,7 +414,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio saroldi",
         ranking: 85,
-        namePlacar: 'riv'
+        namePlacar: 'riv',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 3,
@@ -379,7 +423,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio domingo burgueño",
         ranking: 272,
-        namePlacar: 'mal'
+        namePlacar: 'mal',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 4,
@@ -387,7 +432,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio belvedere",
         ranking: 165,
-        namePlacar: 'liv'
+        namePlacar: 'liv',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 5,
@@ -395,7 +441,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio jardines del hipódromo",
         ranking: 103,
-        namePlacar: 'dan'
+        namePlacar: 'dan',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 6,
@@ -403,7 +450,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio luis franzini",
         ranking: 60,
-        namePlacar: 'def'
+        namePlacar: 'def',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 7,
@@ -411,7 +459,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio complejo rentistas",
         ranking: 224,
-        namePlacar: 'bos'
+        namePlacar: 'bos',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 8,
@@ -419,7 +468,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "campeón del siglo",
         ranking: 8,
-        namePlacar: 'pen'
+        namePlacar: 'pen',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 9,
@@ -427,7 +477,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio arquitecto antonio",
         ranking: 185,
-        namePlacar: 'cer'
+        namePlacar: 'cer',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     },
     {
         pos: 10,
@@ -435,7 +486,8 @@ const primeiraDivisionDoUruguai = [
         pais: 'uruguai',
         estadio: "estádio parque capurro",
         ranking: 148,
-        namePlacar: 'fen'
+        namePlacar: 'fen',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/320px-Flag_of_Uruguay.svg.png'
     }
 ]
 
@@ -446,7 +498,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio tigo manuel ferreira",
         ranking: 14,
-        namePlacar: 'oli'
+        namePlacar: 'oli',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 2,
@@ -454,7 +507,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio general pablo rojas",
         ranking: 15,
-        namePlacar: 'ccp'
+        namePlacar: 'ccp',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 3,
@@ -462,7 +516,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio arsenio erico",
         ranking: 71,
-        namePlacar: 'nac'
+        namePlacar: 'nac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 4,
@@ -470,7 +525,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio tigo la huerta",
         ranking: 16,
-        namePlacar: 'lib'
+        namePlacar: 'lib',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 5,
@@ -478,7 +534,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio toribio vargas",
         ranking: 272,
-        namePlacar: 'tac'
+        namePlacar: 'tac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 6,
@@ -486,7 +543,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio josé tomás silva",
         ranking: 272,
-        namePlacar: 'sam'
+        namePlacar: 'sam',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 7,
@@ -494,7 +552,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio ka'arendy",
         ranking: 139,
-        namePlacar: 'gen'
+        namePlacar: 'gen',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 8,
@@ -502,7 +561,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "parque del guairá",
         ranking: 101,
-        namePlacar: 'gua'
+        namePlacar: 'gua',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 9,
@@ -510,7 +570,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio rogelio livieres",
         ranking: 41,
-        namePlacar: 'gua'
+        namePlacar: 'gua',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     },
     {
         pos: 10,
@@ -518,7 +579,8 @@ const campeonatoParaguaio = [
         pais: 'paraguai',
         estadio: "estádio luis alfonso giagni",
         ranking: 111,
-        namePlacar: 'sol'
+        namePlacar: 'sol',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/320px-Flag_of_Paraguay.svg.png'
     }
 ]
 
@@ -529,7 +591,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio alejandro villanueva",
         ranking: 52,
-        namePlacar: 'ali'
+        namePlacar: 'ali',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 2,
@@ -537,7 +600,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio alberto gallardo",
         ranking: 35,
-        namePlacar: 'scr'
+        namePlacar: 'scr',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 3,
@@ -545,7 +609,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio municipal de bernal",
         ranking: 237,
-        namePlacar: 'cag'
+        namePlacar: 'cag',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 4,
@@ -553,7 +618,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio monumental U",
         ranking: 46,
-        namePlacar: 'uni'
+        namePlacar: 'uni',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 5,
@@ -561,7 +627,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "monumental virgen de chapi",
         ranking: 44,
-        namePlacar: 'mel'
+        namePlacar: 'mel',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 6,
@@ -569,7 +636,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio mansiche",
         ranking: 149,
-        namePlacar: 'ces'
+        namePlacar: 'ces',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 7,
@@ -577,7 +645,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio monumental U",
         ranking: 186,
-        namePlacar: 'utc'
+        namePlacar: 'utc',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 8,
@@ -585,7 +654,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio huancayo",
         ranking: 119,
-        namePlacar: 'shu'
+        namePlacar: 'shu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 9,
@@ -593,7 +663,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio campeones del 36",
         ranking: 269,
-        namePlacar: 'ali'
+        namePlacar: 'ali',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     },
     {
         pos: 10,
@@ -601,7 +672,8 @@ const campeonatoPeruano = [
         pais: 'peru',
         estadio: "estádio guillermo briceño rosamedina",
         ranking: 123,
-        namePlacar: 'bin'
+        namePlacar: 'bin',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/320px-Flag_of_Peru.svg.png'
     }
 ]
 
@@ -612,7 +684,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio hernando siles",
         ranking: 38,
-        namePlacar: 'str'
+        namePlacar: 'str',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 2,
@@ -620,7 +693,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "el alto",
         ranking: 74,
-        namePlacar: 'alw'
+        namePlacar: 'alw',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 3,
@@ -628,7 +702,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio hernando siles",
         ranking: 33,
-        namePlacar: 'bol'
+        namePlacar: 'bol',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 4,
@@ -636,7 +711,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio victor agustín ugarte",
         ranking: 272,
-        namePlacar: 'npo'
+        namePlacar: 'npo',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 5,
@@ -644,7 +720,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio ramón tahuichi aguilera",
         ranking: 81,
-        namePlacar: 'ori'
+        namePlacar: 'ori',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 6,
@@ -652,7 +729,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio libertador",
         ranking: 272,
-        namePlacar: 'cde'
+        namePlacar: 'cde',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 7,
@@ -660,7 +738,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio félix capriles",
         ranking: 236,
-        namePlacar: 'aur'
+        namePlacar: 'aur',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 8,
@@ -668,7 +747,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio olímpico patria",
         ranking: 125,
-        namePlacar: 'ipe'
+        namePlacar: 'ipe',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 9,
@@ -676,7 +756,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio municipal de trópico",
         ranking: 232,
-        namePlacar: 'pdt'
+        namePlacar: 'pdt',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     },
     {
         pos: 10,
@@ -684,7 +765,8 @@ const campeonatoBoliviano = [
         pais: 'bolivia',
         estadio: "estádio ramón tahuichi aguilera",
         ranking: 121,
-        namePlacar: 'blo'
+        namePlacar: 'blo',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/320px-Flag_of_Bolivia_%28state%29.svg.png'
     }
 ]
 
@@ -695,7 +777,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio gonzalo pozo",
         ranking: 112,
-        namePlacar: 'auc'
+        namePlacar: 'auc',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 2,
@@ -703,7 +786,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio rumiñahui",
         ranking: 12,
-        namePlacar: 'idv'
+        namePlacar: 'idv',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 3,
@@ -711,7 +795,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio olímpico atahualpa",
         ranking: 90,
-        namePlacar: 'uca'
+        namePlacar: 'uca',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 4,
@@ -719,7 +804,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio rodrigo paz delgado",
         ranking: 21,
-        namePlacar: 'ldu'
+        namePlacar: 'ldu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 5,
@@ -727,7 +813,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio george capwell",
         ranking: 29,
-        namePlacar: 'eme'
+        namePlacar: 'eme',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 6,
@@ -735,7 +822,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio alejandro serrano aguilar",
         ranking: 130,
-        namePlacar: 'dep'
+        namePlacar: 'dep',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 7,
@@ -743,7 +831,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio bella vista",
         ranking: 272,
-        namePlacar: 'cte'
+        namePlacar: 'cte',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 8,
@@ -751,7 +840,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio monumental isidro",
         ranking: 19,
-        namePlacar: 'bar'
+        namePlacar: 'bar',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 9,
@@ -759,7 +849,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio jocay",
         ranking: 76,
-        namePlacar: 'del'
+        namePlacar: 'del',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     },
     {
         pos: 10,
@@ -767,7 +858,8 @@ const campeonatoEquatoriano = [
         pais: 'equador',
         estadio: "estádio orense",
         ranking: 272,
-        namePlacar: 'ore'
+        namePlacar: 'ore',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/320px-Flag_of_Ecuador.svg.png'
     }
 ]
 
@@ -778,7 +870,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio agustín tovar',
         ranking: 99,
-        namePlacar: 'zam'
+        namePlacar: 'zam',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 2,
@@ -786,7 +879,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'olímpico de la universidad',
         ranking: 97,
-        namePlacar: 'met'
+        namePlacar: 'met',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 3,
@@ -794,7 +888,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'monumental de maturín',
         ranking: 133,
-        namePlacar: 'mon'
+        namePlacar: 'mon',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 4,
@@ -802,7 +897,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio misael delgado',
         ranking: 183,
-        namePlacar: 'car'
+        namePlacar: 'car',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 5,
@@ -810,7 +906,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio metropolitano de lara',
         ranking: 84,
-        namePlacar: 'lar'
+        namePlacar: 'lar',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 6,
@@ -818,7 +915,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio polideportivo',
         ranking: 42,
-        namePlacar: 'tac'
+        namePlacar: 'tac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 7,
@@ -826,7 +924,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio complejo deportivo',
         ranking: 232,
-        namePlacar: 'aca'
+        namePlacar: 'aca',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 8,
@@ -834,7 +933,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio metropolitano de lara',
         ranking: 196,
-        namePlacar: 'cde'
+        namePlacar: 'cde',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 9,
@@ -842,7 +942,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'Olímpico Metropolitano de Mérida',
         ranking: 96,
-        namePlacar: 'est'
+        namePlacar: 'est',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     },
     {
         pos: 10,
@@ -850,7 +951,8 @@ const campeonatoVenezuelano = [
         pais: 'venezuela',
         estadio: 'estádio general josé antonio paez',
         ranking: 115,
-        namePlacar: 'por'
+        namePlacar: 'por',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/320px-Flag_of_Venezuela.svg.png'
     }
 ]
 
