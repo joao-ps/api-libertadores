@@ -110,11 +110,11 @@ const brasileirao = [
     },
     {
         pos: 10,
-        time: "américa-MG",
+        time: 'cruzeiro',
         pais: 'brasil',
-        estadio: "independência",
-        ranking: 118,
-        namePlacar: 'ame',
+        estadio: 'mineirão',
+        ranking: 115,
+        namePlacar: 'cru',
         url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
     }
 ]
@@ -791,7 +791,7 @@ const campeonatoEquatoriano = [
     },
     {
         pos: 3,
-        time: "universidad católica",
+        time: "universidad católica-EQU ",
         pais: 'equador',
         estadio: "estádio olímpico atahualpa",
         ranking: 90,
@@ -956,6 +956,423 @@ const campeonatoVenezuelano = [
     }
 ]
 
+const ligaMX = [
+    {
+        pos: 1,
+        time: 'pachuca',
+        pais: 'méxico',
+        estadio: 'hidalgo',
+        ranking: 115,
+        namePlacar: 'pac',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'toluca',
+        pais: 'méxico',
+        estadio: 'nemesio díez',
+        ranking: 115,
+        namePlacar: 'tolu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'pumas',
+        pais: 'méxico',
+        estadio: 'olímpico universitario',
+        ranking: 115,
+        namePlacar: 'pumas',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 4,
+        time: 'tigres',
+        pais: 'méxico',
+        estadio: 'universitario',
+        ranking: 115,
+        namePlacar: 'tig',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 5,
+        time: 'atlas',
+        pais: 'méxico',
+        estadio: 'jalisco',
+        ranking: 115,
+        namePlacar: 'atl',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 6,
+        time: 'club léon',
+        pais: 'méxico',
+        estadio: 'léon',
+        ranking: 115,
+        namePlacar: 'leon',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 7,
+        time: 'santos laguna',
+        pais: 'méxico',
+        estadio: 'corona',
+        ranking: 115,
+        namePlacar: 'sant',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 8,
+        time: 'américa-MEX',
+        pais: 'méxico',
+        estadio: 'estádio azteca',
+        ranking: 115,
+        namePlacar: 'ame',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 9,
+        time: 'querétaro',
+        pais: 'méxico',
+        estadio: 'corregidora',
+        ranking: 115,
+        namePlacar: 'que',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    },
+    {
+        pos: 10,
+        time: 'monterrey',
+        pais: 'méxico',
+        estadio: 'estadio BBVA bancomer',
+        ranking: 115,
+        namePlacar: 'mont',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+    }
+]
+
+const mls = [
+    {
+        pos: 1,
+        time: 'atlanta united',
+        pais: 'eua',
+        estadio: 'Mercedes-Benz stadium',
+        ranking: 115,
+        namePlacar: 'atl',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'portland',
+        pais: 'eua',
+        estadio: 'providence park',
+        ranking: 115,
+        namePlacar: 'por',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'new york red bulls',
+        pais: 'eua',
+        estadio: 'red bull arena',
+        ranking: 115,
+        namePlacar: 'nyr',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 4,
+        time: 'sporting',
+        pais: 'eua',
+        estadio: 'childrens mercy park',
+        ranking: 115,
+        namePlacar: 'spo',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 5,
+        time: 'sounders',
+        pais: 'eua',
+        estadio: 'centuryLink field',
+        ranking: 115,
+        namePlacar: 'sou',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 6,
+        time: 'new york city',
+        pais: 'eua',
+        estadio: 'yankee stadium',
+        ranking: 115,
+        namePlacar: 'city',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 7,
+        time: 'columbus crew',
+        pais: 'eua',
+        estadio: 'mapfre stadium',
+        ranking: 115,
+        namePlacar: 'colu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 8,
+        time: 'real salt lake',
+        pais: 'eua',
+        estadio: 'rio tinto stadium',
+        ranking: 115,
+        namePlacar: 'real',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 9,
+        time: 'los angeles fc',
+        pais: 'eua',
+        estadio: 'banc of california',
+        ranking: 115,
+        namePlacar: 'los',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    },
+    {
+        pos: 10,
+        time: 'dallas',
+        pais: 'eua',
+        estadio: 'toyota stadium',
+        ranking: 115,
+        namePlacar: 'dall',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png'
+    }
+]
+
+const campeonatoCostaRiquenho = [
+    {
+        pos: 1,
+        time: 'herediano',
+        pais: 'costa rica',
+        estadio: 'Eladio Rosabal Cordero',
+        ranking: 115,
+        namePlacar: 'here',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/125px-Flag_of_Costa_Rica.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'saprissa',
+        pais: 'costa rica',
+        estadio: 'Ricardo Saprissa Aymá',
+        ranking: 115,
+        namePlacar: 'sap',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/125px-Flag_of_Costa_Rica.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'alajuelense',
+        pais: 'costa rica',
+        estadio: 'Alejandro Morera Soto',
+        ranking: 115,
+        namePlacar: 'ala',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/125px-Flag_of_Costa_Rica.svg.png'
+    }
+]
+
+const campeonatoPanamenho = [
+    {
+        pos: 1,
+        time: 'plaza amador',
+        pais: 'panamá',
+        estadio: 'Estádio Rommel Fernández',
+        ranking: 115,
+        namePlacar: 'plaza',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/125px-Flag_of_Panama.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'tauro',
+        pais: 'panamá',
+        estadio: 'Estádio Rommel Fernández',
+        ranking: 115,
+        namePlacar: 'tau',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/125px-Flag_of_Panama.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'árabe unido',
+        pais: 'panamá',
+        estadio: 'Estádio Rommel Fernández',
+        ranking: 115,
+        namePlacar: 'arabe',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/125px-Flag_of_Panama.svg.png'
+    }
+]
+
+const campeonatoHondurenho = [
+    {
+        pos: 1,
+        time: 'olimpia-HON',
+        pais: 'honduras',
+        estadio: 'Tiburcio Carías Andino',
+        ranking: 115,
+        namePlacar: 'olim',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Honduras_%281949%E2%80%932022%29.svg/125px-Flag_of_Honduras_%281949%E2%80%932022%29.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'deportivo marathón',
+        pais: 'honduras',
+        estadio: 'Tiburcio Carías Andino',
+        ranking: 115,
+        namePlacar: 'mara',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Honduras_%281949%E2%80%932022%29.svg/125px-Flag_of_Honduras_%281949%E2%80%932022%29.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'motagua',
+        pais: 'honduras',
+        estadio: 'Tiburcio Carías Andino',
+        ranking: 115,
+        namePlacar: 'mota',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Flag_of_Honduras_%281949%E2%80%932022%29.svg/125px-Flag_of_Honduras_%281949%E2%80%932022%29.svg.png'
+    }
+]
+
+const campeonatoSalvadorenho = [
+    {
+        pos: 1,
+        time: 'Alianza-SAL',
+        pais: 'el salvador',
+        estadio: 'Estádio Cuscatlán',
+        ranking: 115,
+        namePlacar: 'alia',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/125px-Flag_of_El_Salvador.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'santa tecla',
+        pais: 'el salvador',
+        estadio: 'Estadio Las Delicias',
+        ranking: 115,
+        namePlacar: 'ste',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/125px-Flag_of_El_Salvador.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'matapan',
+        pais: 'el salvador',
+        estadio: 'Estádio Cuscatlán',
+        ranking: 115,
+        namePlacar: 'mata',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/125px-Flag_of_El_Salvador.svg.png'
+    }
+]
+
+const campeonatoNicaraguense = [
+    {
+        pos: 1,
+        time: 'real estelí',
+        pais: 'nicaragua',
+        estadio: 'Independence Soccer Stadium',
+        ranking: 115,
+        namePlacar: 'este',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/125px-Flag_of_Nicaragua.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'ferretti',
+        pais: 'nicaragua',
+        estadio: 'Estádio Nacional de Futebol da Nicarágua',
+        ranking: 115,
+        namePlacar: 'fer',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/125px-Flag_of_Nicaragua.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'sport sebaco',
+        pais: 'nicaragua',
+        estadio: 'Estádio Nacional de Futebol da Nicarágua',
+        ranking: 115,
+        namePlacar: 'seba',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/125px-Flag_of_Nicaragua.svg.png'
+    }
+]
+
+const copaDoCaribe = [
+    {
+        pos: 1,
+        time: 'central',
+        pais: 'trindade e tobago',
+        estadio: 'Estádio Ato Boldon',
+        ranking: 115,
+        namePlacar: 'cent',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/125px-Flag_of_Trinidad_and_Tobago.svg.png'
+    },
+    {
+        pos: 2,
+        time: 'W Connection FC',
+        pais: 'trindade e tobago',
+        estadio: 'Estádio Manny Ramjohn',
+        ranking: 115,
+        namePlacar: 'conn',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/125px-Flag_of_Trinidad_and_Tobago.svg.png'
+    },
+    {
+        pos: 3,
+        time: 'cibao',
+        pais: 'república dominicana',
+        estadio: 'estádio cibao fc',
+        ranking: 115,
+        namePlacar: 'cib',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/125px-Flag_of_the_Dominican_Republic.svg.png'
+    }
+]
+
+const copaDoBrasil = {
+    pos: 10,
+    time: 'cruzeiro',
+    pais: 'brasil',
+    estadio: 'mineirão',
+    ranking: 115,
+    namePlacar: 'cru',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/320px-Flag_of_Brazil.svg.png'
+}
+
+const copaDaArgentina = {
+    pos: 3,
+    time: 'river plate',
+    pais: 'argentina',
+    estadio: 'monumental de núñez',
+    ranking: 115,
+    namePlacar: 'riv',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png'
+}
+
+const copaDaColombia = {
+    pos: 5,
+    time: "junior barranquilla",
+    pais: 'colombia',
+    estadio: "estádio metropolitano",
+    ranking: 26,
+    namePlacar: 'jun',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/320px-Flag_of_Colombia.svg.png'
+}
+
+const copaDoChile = {
+    pos: 1,
+    time: "Colo-Colo",
+    pais: 'chile',
+    estadio: "monumental david arellano",
+    ranking: 28,
+    namePlacar: 'col',
+    url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/320px-Flag_of_Chile.svg.png'
+}
+
+const copaDoMexico = {
+        pos: 2,
+        time: 'toluca',
+        pais: 'méxico',
+        estadio: 'nemesio díez',
+        ranking: 115,
+        namePlacar: 'tolu',
+        url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png'
+}
+
+
 app.route('/campeao-libertadores').get((req,res) => {
     res.json(atualCampeaoLibertadores)
 })
@@ -991,4 +1408,43 @@ app.route('/equador').get((req,res) => {
 })
 app.route('/venezuela').get((req,res) => {
     res.json(campeonatoVenezuelano)
+})
+app.route('/mexico').get((req,res) => {
+    res.json(ligaMX)
+})
+app.route('/eua').get((req,res) => {
+    res.json(mls)
+})
+app.route('/costa-rica').get((req,res) => {
+    res.json(campeonatoCostaRiquenho)
+})
+app.route('/panama').get((req,res) => {
+    res.json(campeonatoPanamenho)
+})
+app.route('/honduras').get((req,res) => {
+    res.json(campeonatoHondurenho)
+})
+app.route('/el-salvador').get((req,res) => {
+    res.json(campeonatoSalvadorenho)
+})
+app.route('/nicaragua').get((req,res) => {
+    res.json(campeonatoNicaraguense)
+})
+app.route('/caribe').get((req,res) => {
+    res.json(copaDoCaribe)
+})
+app.route('/brasil-copa').get((req,res) => {
+    res.json(copaDoBrasil)
+})
+app.route('/argentina-copa').get((req,res) => {
+    res.json(copaDaArgentina)
+})
+app.route('/colombia-copa').get((req,res) => {
+    res.json(copaDaColombia)
+})
+app.route('/chile-copa').get((req,res) => {
+    res.json(copaDoChile)
+})
+app.route('/mexico-copa').get((req,res) => {
+    res.json(copaDoMexico)
 })
